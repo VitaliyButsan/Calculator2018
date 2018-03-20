@@ -23,10 +23,13 @@ class ViewController: UIViewController {
 
     //  0,1,2,3,4,5,6,7,8,9 buttons.
     @IBAction func myNumbers(_ sender: UIButton) {
+        if myOperator != 0 && secondNumeral == ""{             // Cleaning the display before displayning the secondNumeral
+            display.text = ""
+        }
         display.text = display.text! + String(sender.tag)      // Cancatenate input character with output string, for output.
         if myOperator == 0 {
             firstNumeral = firstNumeral + String(sender.tag)   // If dont press one of operations button, firstNumeral assign input value.
-        }else {
+        } else {
             secondNumeral = secondNumeral + String(sender.tag) // If press one of the operations button, secondNumeral assign second input value.
         }
     }
@@ -54,18 +57,18 @@ class ViewController: UIViewController {
                 case 1005:
                     firstNumeral = String(pow(Double(firstNumeral)!, Double(secondNumeral)!))
             default:
-                    print("")
+                    display.text = "Error 2"
             }
-        // If we have first input value, here we check(compare) to determine, how!!!  output this value on display, with dot(if value have some integers(and not ZERO too) in exponential part), or output integer value, without dot.
-            if Double(firstNumeral) == Double(Int(Double(firstNumeral) ?? 0)) {
-                firstNumeral = String(Int(Double(firstNumeral) ?? 0))
+        // If we have first input value, here we check(compare) to determine, how!!!  output this value on display, with dot(if value have some integers(and not ZERO too) in exponential part), or output integer value, without dot. And we checking if the number exceeds the int.
+            if Double(firstNumeral) ?? 0 <= Double(9223372036854775807) && Double(firstNumeral) == Double(Int64(Double(firstNumeral) ?? 0)) {
+                firstNumeral = String(Int64(Double(firstNumeral) ?? 0))
             }
             secondNumeral = "" // After math we must clear secondNumeral variable, fo other math-operations.
         }
         // We will get here when we don't have second input value, and after save operator input tag value in myOperator variable, and clear displaye. Each button has its own tag integer value.
         if firstNumeral != "" {
             myOperator = Int(sender.tag)
-            display.text = ""
+            display.text = firstNumeral  // Outputing the result after each arithmetic operation.
         }
     }
 
@@ -107,9 +110,9 @@ class ViewController: UIViewController {
                 default:
                 print("")
             }
-            // If we have first input value, here we check(compare) to determine, how!!!  output this value on display, with dot(if value have some integers(and not ZERO too) in exponential part), or output integer value, without dot.
-            if Double(firstNumeral) == Double(Int(Double(firstNumeral) ?? 0)) {
-                firstNumeral = String(Int(Double(firstNumeral) ?? 0))
+            // If we have first input value, here we check(compare) to determine, how!!!  output this value on display, with dot(if value have some integers(and not ZERO too) in exponential part), or output integer value, without dot. And we checking if the number exceeds the int.
+            if Double(firstNumeral) ?? 0 <= Double(9223372036854775807) && Double(firstNumeral) == Double(Int64(Double(firstNumeral) ?? 0)) {
+                firstNumeral = String(Int64(Double(firstNumeral) ?? 0))
             }
             // After math clear myOperator, secondNumeral variables for other math operations.
             myOperator = 0
