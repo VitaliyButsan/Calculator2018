@@ -7,6 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		587A9BB42084FCFC006C9281 /* Steve-Hawking_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 587A9BB32084FCFC006C9281 /* Steve-Hawking_01.png */; };
+		5890D4942084D5EE003FC40D /* Blue_Planet.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 5890D48B2084D5EE003FC40D /* Blue_Planet.JPG */; };
+		5890D4952084D5EE003FC40D /* icon58x58.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D48C2084D5EE003FC40D /* icon58x58.png */; };
+		5890D4962084D5EE003FC40D /* icon40x40.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D48D2084D5EE003FC40D /* icon40x40.png */; };
+		5890D4972084D5EE003FC40D /* icon120x120.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D48E2084D5EE003FC40D /* icon120x120.png */; };
+		5890D4982084D5EE003FC40D /* icon80x80.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D48F2084D5EE003FC40D /* icon80x80.png */; };
+		5890D4992084D5EE003FC40D /* icon60x60.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4902084D5EE003FC40D /* icon60x60.png */; };
+		5890D49A2084D5EE003FC40D /* icon140x140.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4912084D5EE003FC40D /* icon140x140.png */; };
+		5890D49B2084D5EE003FC40D /* icon180x180.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4922084D5EE003FC40D /* icon180x180.png */; };
+		5890D49C2084D5EE003FC40D /* Steve Hawking.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4932084D5EE003FC40D /* Steve Hawking.JPG */; };
+		5890D4AA2084E6DC003FC40D /* Steve-Hawking_11.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D49E2084E6DC003FC40D /* Steve-Hawking_11.png */; };
+		5890D4AB2084E6DC003FC40D /* Steve-Hawking_04.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D49F2084E6DC003FC40D /* Steve-Hawking_04.png */; };
+		5890D4AC2084E6DC003FC40D /* Steve-Hawking_12.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4A02084E6DC003FC40D /* Steve-Hawking_12.png */; };
+		5890D4AD2084E6DC003FC40D /* Steve-Hawking_02.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4A12084E6DC003FC40D /* Steve-Hawking_02.png */; };
+		5890D4AE2084E6DC003FC40D /* Steve-Hawking_09.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4A22084E6DC003FC40D /* Steve-Hawking_09.png */; };
+		5890D4AF2084E6DC003FC40D /* Steve-Hawking_05.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4A32084E6DC003FC40D /* Steve-Hawking_05.png */; };
+		5890D4B02084E6DC003FC40D /* Steve-Hawking_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4A42084E6DC003FC40D /* Steve-Hawking_03.png */; };
+		5890D4B22084E6DC003FC40D /* Steve-Hawking_07.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4A62084E6DC003FC40D /* Steve-Hawking_07.png */; };
+		5890D4B32084E6DC003FC40D /* Steve-Hawking_08.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4A72084E6DC003FC40D /* Steve-Hawking_08.png */; };
+		5890D4B42084E6DC003FC40D /* Steve-Hawking_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4A82084E6DC003FC40D /* Steve-Hawking_10.png */; };
+		5890D4B52084E6DC003FC40D /* Steve-Hawking_06.png in Resources */ = {isa = PBXBuildFile; fileRef = 5890D4A92084E6DC003FC40D /* Steve-Hawking_06.png */; };
 		C6C0E69220546A88007F2B73 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C0E69120546A88007F2B73 /* AppDelegate.swift */; };
 		C6C0E69420546A88007F2B73 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C0E69320546A88007F2B73 /* ViewController.swift */; };
 		C6C0E69720546A88007F2B73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6C0E69520546A88007F2B73 /* Main.storyboard */; };
@@ -15,6 +36,27 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		587A9BB32084FCFC006C9281 /* Steve-Hawking_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Steve-Hawking_01.png"; sourceTree = "<group>"; };
+		5890D48B2084D5EE003FC40D /* Blue_Planet.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Blue_Planet.JPG; sourceTree = "<group>"; };
+		5890D48C2084D5EE003FC40D /* icon58x58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon58x58.png; sourceTree = "<group>"; };
+		5890D48D2084D5EE003FC40D /* icon40x40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon40x40.png; sourceTree = "<group>"; };
+		5890D48E2084D5EE003FC40D /* icon120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon120x120.png; sourceTree = "<group>"; };
+		5890D48F2084D5EE003FC40D /* icon80x80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon80x80.png; sourceTree = "<group>"; };
+		5890D4902084D5EE003FC40D /* icon60x60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon60x60.png; sourceTree = "<group>"; };
+		5890D4912084D5EE003FC40D /* icon140x140.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon140x140.png; sourceTree = "<group>"; };
+		5890D4922084D5EE003FC40D /* icon180x180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon180x180.png; sourceTree = "<group>"; };
+		5890D4932084D5EE003FC40D /* Steve Hawking.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Steve Hawking.JPG"; sourceTree = "<group>"; };
+		5890D49E2084E6DC003FC40D /* Steve-Hawking_11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Steve-Hawking_11.png"; path = "Stephen image pieces/Steve-Hawking_11.png"; sourceTree = "<group>"; };
+		5890D49F2084E6DC003FC40D /* Steve-Hawking_04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Steve-Hawking_04.png"; path = "Stephen image pieces/Steve-Hawking_04.png"; sourceTree = "<group>"; };
+		5890D4A02084E6DC003FC40D /* Steve-Hawking_12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Steve-Hawking_12.png"; path = "Stephen image pieces/Steve-Hawking_12.png"; sourceTree = "<group>"; };
+		5890D4A12084E6DC003FC40D /* Steve-Hawking_02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Steve-Hawking_02.png"; path = "Stephen image pieces/Steve-Hawking_02.png"; sourceTree = "<group>"; };
+		5890D4A22084E6DC003FC40D /* Steve-Hawking_09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Steve-Hawking_09.png"; path = "Stephen image pieces/Steve-Hawking_09.png"; sourceTree = "<group>"; };
+		5890D4A32084E6DC003FC40D /* Steve-Hawking_05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Steve-Hawking_05.png"; path = "Stephen image pieces/Steve-Hawking_05.png"; sourceTree = "<group>"; };
+		5890D4A42084E6DC003FC40D /* Steve-Hawking_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Steve-Hawking_03.png"; path = "Stephen image pieces/Steve-Hawking_03.png"; sourceTree = "<group>"; };
+		5890D4A62084E6DC003FC40D /* Steve-Hawking_07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Steve-Hawking_07.png"; path = "Stephen image pieces/Steve-Hawking_07.png"; sourceTree = "<group>"; };
+		5890D4A72084E6DC003FC40D /* Steve-Hawking_08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Steve-Hawking_08.png"; path = "Stephen image pieces/Steve-Hawking_08.png"; sourceTree = "<group>"; };
+		5890D4A82084E6DC003FC40D /* Steve-Hawking_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Steve-Hawking_10.png"; path = "Stephen image pieces/Steve-Hawking_10.png"; sourceTree = "<group>"; };
+		5890D4A92084E6DC003FC40D /* Steve-Hawking_06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Steve-Hawking_06.png"; path = "Stephen image pieces/Steve-Hawking_06.png"; sourceTree = "<group>"; };
 		C6C0E68E20546A88007F2B73 /* CALC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CALC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6C0E69120546A88007F2B73 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C6C0E69320546A88007F2B73 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,12 +77,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C605723820576A7100A1B3A4 /* New Group */ = {
+		5890D4722084C624003FC40D /* icons */ = {
 			isa = PBXGroup;
 			children = (
-				C6C0E69320546A88007F2B73 /* ViewController.swift */,
+				5890D48B2084D5EE003FC40D /* Blue_Planet.JPG */,
+				5890D48D2084D5EE003FC40D /* icon40x40.png */,
+				5890D48C2084D5EE003FC40D /* icon58x58.png */,
+				5890D4902084D5EE003FC40D /* icon60x60.png */,
+				5890D48F2084D5EE003FC40D /* icon80x80.png */,
+				5890D48E2084D5EE003FC40D /* icon120x120.png */,
+				5890D4912084D5EE003FC40D /* icon140x140.png */,
+				5890D4922084D5EE003FC40D /* icon180x180.png */,
+				5890D4932084D5EE003FC40D /* Steve Hawking.JPG */,
 			);
-			path = "New Group";
+			path = icons;
+			sourceTree = "<group>";
+		};
+		5890D49D2084E662003FC40D /* Stephen image pieces */ = {
+			isa = PBXGroup;
+			children = (
+				587A9BB32084FCFC006C9281 /* Steve-Hawking_01.png */,
+				5890D4A12084E6DC003FC40D /* Steve-Hawking_02.png */,
+				5890D4A42084E6DC003FC40D /* Steve-Hawking_03.png */,
+				5890D49F2084E6DC003FC40D /* Steve-Hawking_04.png */,
+				5890D4A32084E6DC003FC40D /* Steve-Hawking_05.png */,
+				5890D4A92084E6DC003FC40D /* Steve-Hawking_06.png */,
+				5890D4A62084E6DC003FC40D /* Steve-Hawking_07.png */,
+				5890D4A72084E6DC003FC40D /* Steve-Hawking_08.png */,
+				5890D4A22084E6DC003FC40D /* Steve-Hawking_09.png */,
+				5890D4A82084E6DC003FC40D /* Steve-Hawking_10.png */,
+				5890D49E2084E6DC003FC40D /* Steve-Hawking_11.png */,
+				5890D4A02084E6DC003FC40D /* Steve-Hawking_12.png */,
+			);
+			name = "Stephen image pieces";
 			sourceTree = "<group>";
 		};
 		C6C0E68520546A88007F2B73 = {
@@ -62,9 +131,11 @@
 		C6C0E69020546A88007F2B73 /* CALC */ = {
 			isa = PBXGroup;
 			children = (
+				5890D49D2084E662003FC40D /* Stephen image pieces */,
+				5890D4722084C624003FC40D /* icons */,
 				C6C0E69120546A88007F2B73 /* AppDelegate.swift */,
-				C605723820576A7100A1B3A4 /* New Group */,
 				C6C0E69520546A88007F2B73 /* Main.storyboard */,
+				C6C0E69320546A88007F2B73 /* ViewController.swift */,
 				C6C0E69820546A88007F2B73 /* Assets.xcassets */,
 				C6C0E69A20546A88007F2B73 /* LaunchScreen.storyboard */,
 				C6C0E69D20546A88007F2B73 /* Info.plist */,
@@ -99,12 +170,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
-				LastUpgradeCheck = 0920;
+				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = ket/Xcode;
 				TargetAttributes = {
 					C6C0E68D20546A88007F2B73 = {
 						CreatedOnToolsVersion = 9.2;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -131,9 +202,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5890D4AE2084E6DC003FC40D /* Steve-Hawking_09.png in Resources */,
+				5890D4AA2084E6DC003FC40D /* Steve-Hawking_11.png in Resources */,
+				5890D49C2084D5EE003FC40D /* Steve Hawking.JPG in Resources */,
+				587A9BB42084FCFC006C9281 /* Steve-Hawking_01.png in Resources */,
+				5890D4B32084E6DC003FC40D /* Steve-Hawking_08.png in Resources */,
 				C6C0E69C20546A88007F2B73 /* LaunchScreen.storyboard in Resources */,
+				5890D4AC2084E6DC003FC40D /* Steve-Hawking_12.png in Resources */,
+				5890D4982084D5EE003FC40D /* icon80x80.png in Resources */,
+				5890D4AD2084E6DC003FC40D /* Steve-Hawking_02.png in Resources */,
+				5890D4B42084E6DC003FC40D /* Steve-Hawking_10.png in Resources */,
+				5890D4B52084E6DC003FC40D /* Steve-Hawking_06.png in Resources */,
+				5890D49B2084D5EE003FC40D /* icon180x180.png in Resources */,
+				5890D4942084D5EE003FC40D /* Blue_Planet.JPG in Resources */,
+				5890D4992084D5EE003FC40D /* icon60x60.png in Resources */,
 				C6C0E69920546A88007F2B73 /* Assets.xcassets in Resources */,
+				5890D4962084D5EE003FC40D /* icon40x40.png in Resources */,
+				5890D4AF2084E6DC003FC40D /* Steve-Hawking_05.png in Resources */,
 				C6C0E69720546A88007F2B73 /* Main.storyboard in Resources */,
+				5890D49A2084D5EE003FC40D /* icon140x140.png in Resources */,
+				5890D4B02084E6DC003FC40D /* Steve-Hawking_03.png in Resources */,
+				5890D4952084D5EE003FC40D /* icon58x58.png in Resources */,
+				5890D4B22084E6DC003FC40D /* Steve-Hawking_07.png in Resources */,
+				5890D4972084D5EE003FC40D /* icon120x120.png in Resources */,
+				5890D4AB2084E6DC003FC40D /* Steve-Hawking_04.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -185,6 +277,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -192,6 +285,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -219,7 +313,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -242,6 +336,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -249,6 +344,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -270,7 +366,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -282,8 +378,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 45JNFF5WM9;
 				INFOPLIST_FILE = CALC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ket.CALC;
@@ -298,8 +395,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 45JNFF5WM9;
 				INFOPLIST_FILE = CALC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ket.CALC;
