@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Cee-N0-jRW">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Cee-N0-jRW">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
         <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -272,7 +272,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vHO-nU-vzH">
-                                <rect key="frame" x="282" y="59" width="22" height="19"/>
+                                <rect key="frame" x="282" y="63" width="22" height="19"/>
                                 <color key="backgroundColor" red="0.69467616299307033" green="0.86647366751269039" blue="0.84204759678884233" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="19" id="ho6-dZ-LDM"/>
@@ -285,6 +285,7 @@
                         </subviews>
                         <color key="backgroundColor" red="0.84493458271026611" green="0.94757860898971558" blue="0.91687482595443726" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="vHO-nU-vzH" firstAttribute="centerY" secondItem="HYD-bh-pP3" secondAttribute="centerY" constant="-10" id="7uf-h2-GVg"/>
                             <constraint firstItem="fw2-BB-PKF" firstAttribute="centerY" secondItem="ySs-7L-zBb" secondAttribute="centerY" constant="64" id="AUw-KK-Y6O"/>
                             <constraint firstItem="hb1-Jl-R2q" firstAttribute="leading" secondItem="Qh6-HC-UNC" secondAttribute="leading" constant="16" id="IAr-4I-g1I"/>
                             <constraint firstItem="HYD-bh-pP3" firstAttribute="leading" secondItem="hb1-Jl-R2q" secondAttribute="trailing" id="Jzs-B7-hBx"/>
@@ -292,7 +293,6 @@
                             <constraint firstItem="vHO-nU-vzH" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="ySs-7L-zBb" secondAttribute="leading" constant="20" symbolic="YES" id="btl-k2-zWR"/>
                             <constraint firstItem="fw2-BB-PKF" firstAttribute="top" secondItem="hb1-Jl-R2q" secondAttribute="bottom" constant="16" id="chn-ra-hnx"/>
                             <constraint firstItem="hb1-Jl-R2q" firstAttribute="trailing" secondItem="Qh6-HC-UNC" secondAttribute="trailing" constant="-38" id="crJ-oL-7vG"/>
-                            <constraint firstItem="HYD-bh-pP3" firstAttribute="top" secondItem="vHO-nU-vzH" secondAttribute="bottom" constant="-43" id="kuj-LQ-ZhE"/>
                             <constraint firstItem="Qh6-HC-UNC" firstAttribute="trailing" secondItem="vHO-nU-vzH" secondAttribute="trailing" constant="16" id="kyp-WM-KTe"/>
                             <constraint firstItem="hb1-Jl-R2q" firstAttribute="top" secondItem="HYD-bh-pP3" secondAttribute="top" id="mFa-mf-nv1"/>
                             <constraint firstItem="Qh6-HC-UNC" firstAttribute="trailing" secondItem="HYD-bh-pP3" secondAttribute="trailing" constant="16" id="ncQ-KG-hhD"/>
